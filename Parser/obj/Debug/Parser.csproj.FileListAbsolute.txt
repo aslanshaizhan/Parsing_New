@@ -1,0 +1,4 @@
+C:\Users\Acer\source\repos\Parser\obj\Debug\Parser.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\Parser\obj\Debug\Parser.FormMain.resources
+C:\Users\Acer\source\repos\Parser\obj\Debug\Parser.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Parser\obj\Debug\Parser.csproj.CoreCompileInputs.cache
